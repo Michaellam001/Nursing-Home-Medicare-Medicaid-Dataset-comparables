@@ -29,7 +29,7 @@ The dataset was obtained from the official [Medicare.gov] (https://data.medicare
 - **Nursing homes with more staffing hours per resident per day** tended to have fewer penalties.
 - **States with larger elderly populations** showed varied levels of quality care and deficiencies.
 - **Ownership type** plays a major role in penalty occurrences and survey results.
-- 
+
 **📈 Visualizations**
 A set of charts are used to illustrate:
 - Deficiencies by state
